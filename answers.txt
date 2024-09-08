@@ -8,3 +8,7 @@ Answer: Data Science could be applied to health by looking at data of cancer pat
 Q3: What is the difference between merging and rebasing?
 
 Answer: Rebasing appends one branch to another one, giving a more linear history. Merge simply adds one branch's changes to the other and does not destory the branch, making it less destructive but also less clean.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my Git, working with data, and machine learning skills.
