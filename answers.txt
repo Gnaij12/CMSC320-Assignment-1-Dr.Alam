@@ -4,3 +4,7 @@ Answer: To work with other people, put code online, and keep a version history.
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data Science could be applied to health by looking at data of cancer patients to determine patterns.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Rebasing appends one branch to another one, giving a more linear history. Merge simply adds one branch's changes to the other and does not destory the branch, making it less destructive but also less clean.
